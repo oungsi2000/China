@@ -206,7 +206,7 @@ class _AdditionalModules():
         try:
             unique_id = str(uuid.uuid4()).replace('-','')
 
-            os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '/Users/jung-yongjun/Desktop/china/alien-hour-386816-2123060270ca.json'
+            os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = ''
             storage_client = storage.Client()
 
             bucket = storage_client.bucket('twobasestore')

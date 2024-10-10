@@ -32,7 +32,7 @@ class _Collector:
         self.already_done = []
         self.word_pairs = {}
         
-        self.client = pymongo.MongoClient('mongodb+srv://twobasestore:9GssjMAUHiWraHsF@twobasestore.5bmmzbq.mongodb.net/')
+        self.client = pymongo.MongoClient('')
         self.db = self.client['twobasestore']
 
     def print(self, msg):
@@ -200,7 +200,7 @@ class _AdditionalModules():
         try:
             unique_id = str(uuid.uuid4()).replace('-','')
 
-            os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '/Users/jung-yongjun/Desktop/china/datas/alien-hour-386816-2123060270ca.json'
+            os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = ''
             storage_client = storage.Client()
 
             bucket = storage_client.bucket('twobasestore')
