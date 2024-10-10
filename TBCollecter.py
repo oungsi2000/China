@@ -284,8 +284,8 @@ class _AdditionalModules():
     def detect_person(self, image_url):
         try:
             # Set API key and endpoint.
-            subscription_key = "94d344201f9b495491fbb47b0e2e68ba"
-            endpoint = "https://twobasestore.cognitiveservices.azure.com/"
+            subscription_key = ""
+            endpoint = ""
 
             # Create an instance of the Computer Vision client.
             computervision_client = ComputerVisionClient(endpoint, CognitiveServicesCredentials(subscription_key))

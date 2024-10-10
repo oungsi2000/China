@@ -48,7 +48,7 @@ import signal
     #2번의 결과와 키 값을 그냥 3번에 전달하면 되지 않나
 
 lock = threading.Lock()
-client = pymongo.MongoClient('mongodb+srv://twobasestore:9GssjMAUHiWraHsF@twobasestore.5bmmzbq.mongodb.net/')
+client = pymongo.MongoClient('')
 db = client['twobasestore']
 
 completed_task = 0
