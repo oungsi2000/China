@@ -632,7 +632,7 @@ class Deleter:
             raise BadDataError(f'상품 삭제 실패 : {e}')
 
     def _img_deleter(self, code):
-        os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '/Users/jung-yongjun/Desktop/china/datas/alien-hour-386816-2123060270ca.json'
+        os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = ''
         storage_client = storage.Client()
         bucket = storage_client.bucket('twobasestore')
         try:

@@ -46,7 +46,7 @@ import io
 lock = threading.Lock()
 
 #DB연결
-client = pymongo.MongoClient('mongodb+srv://twobasestore:9GssjMAUHiWraHsF@twobasestore.5bmmzbq.mongodb.net/')
+client = pymongo.MongoClient('')
 db = client['twobasestore']
 
 #완료된 전체 작업 개수 (공유 리소스)

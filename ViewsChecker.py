@@ -9,7 +9,7 @@ import json
 import datetime
 import requests
 
-client = pymongo.MongoClient('mongodb+srv://twobasestore:djawnstlr@twobasestore.znc2ay2.mongodb.net/')
+client = pymongo.MongoClient('')
 db = client['twobasestore']
 lock = threading.Lock()
 
