@@ -10,8 +10,8 @@ import requests
 import traceback
 
 p = Proxycrawl(UseSelenium=False)
-sellerid = 'twobase14'
-sellerpw = '!Password1!'
+sellerid = ''
+sellerpw = ''
 bus_account = '투베이스14'
 
 def refresh_token_ESM():

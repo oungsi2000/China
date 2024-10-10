@@ -41,7 +41,7 @@ class _Collecter:
         self.already_done = []
         self.word_pairs = {}
         
-        self.client = pymongo.MongoClient('mongodb+srv://twobasestore:djawnstlr@twobasestore.znc2ay2.mongodb.net/')
+        self.client = pymongo.MongoClient('')
         self.db = self.client['twobasestore']
 
     #고유상품코드 등록 함수
