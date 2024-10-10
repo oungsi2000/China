@@ -1,0 +1,13 @@
+{
+    "ShipmentPlaceNo": "20326056",
+    "hdnBundleDeliveryTempNo": "5054739",
+    "JejuAddDeliveryFee": 4000,
+    "BackwoodsAddDeliveryFee": 8000,
+    "ReturnExchangeDeliveryFeeStr": "4000",
+    "IacTransPolicyNo": "-200",
+    "GmktTransPolicyNo": "-200",
+    "DeliveryFeeTemplateNo": "51156063",
+    "LicenseSeqGMKT": [
+        "100017810"
+    ]
+}

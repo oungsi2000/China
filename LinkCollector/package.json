@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "axios": "^1.5.1",
+    "bootstrap": "^5.3.1",
+    "exceljs": "^4.3.0",
+    "mongodb": "^6.1.0",
+    "xlsx": "^0.18.5"
+  },
+  "name": "linkcollector",
+  "version": "26.3.0",
+  "main": "t.js",
+  "devDependencies": {
+    "electron": "^26.3.0",
+    "electron-builder": "^24.6.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "electron-builder"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "build" : {
+    "npmRebuild": true,
+    "npmArgs": ["--production"],
+    "asar": true,
+    "files" : ["!.vscode${/*}"]
+  }
+}

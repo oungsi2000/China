@@ -1,0 +1,15 @@
+ERROR:root:__init__() missing 1 required positional argument: 'business_acount'
+Traceback (most recent call last):
+  File "/Users/jung-yongjun/Desktop/china/UploaderTest_v3_test.py", line 1382, in _main
+    up = Uploader(self.business_account, chunk=self.chunk)
+TypeError: __init__() missing 1 required positional argument: 'business_acount'
+ERROR:root:__init__() missing 1 required positional argument: 'business_acount'
+Traceback (most recent call last):
+  File "/Users/jung-yongjun/Desktop/china/UploaderTest_v3_test.py", line 1382, in _main
+    up = Uploader(self.business_account, chunk=self.chunk)
+TypeError: __init__() missing 1 required positional argument: 'business_acount'
+ERROR:root:__init__() missing 1 required positional argument: 'business_acount'
+Traceback (most recent call last):
+  File "/Users/jung-yongjun/Desktop/china/UploaderTest_v3_test.py", line 1382, in _main
+    up = Uploader(self.business_account, chunk=self.chunk)
+TypeError: __init__() missing 1 required positional argument: 'business_acount'

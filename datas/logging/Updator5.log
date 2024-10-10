@@ -1,0 +1,14 @@
+INFO:root:네이버 삭제 살패 : 입력정보가 올바르지 않습니다.
+INFO:root:{"Total":1,"Success":1,"Info":[{"Info":[{"SiteId":"옥션","SingleGoodsNo":0,"SiteGoodsNo":"D739360025","ItemName":null,"Message":"정상적으로 수정되었습니다.","Status":"성공","ErrorMessage":null,"FailColumns":null,"Success":true,"DisplayLimitInfoModel":null},{"SiteId":"지마켓","SingleGoodsNo":0,"SiteGoodsNo":"3327897695","ItemName":null,"Message":"정상적으로 수정되었습니다.","Status":"성공","ErrorMessage":null,"FailColumns":null,"Success":true,"DisplayLimitInfoModel":null}],"SingleGoodsNo":2965639766,"Total":1,"Success":true,"SuccessCount":1}]}
+INFO:root:{"Total":1,"Success":1,"Info":[{"Info":[{"SiteId":"옥션","SingleGoodsNo":0,"SiteGoodsNo":"D737045065","ItemName":null,"Message":"정상적으로 수정되었습니다.","Status":"성공","ErrorMessage":null,"FailColumns":null,"Success":true,"DisplayLimitInfoModel":null},{"SiteId":"지마켓","SingleGoodsNo":0,"SiteGoodsNo":"3325515980","ItemName":null,"Message":"정상적으로 수정되었습니다.","Status":"성공","ErrorMessage":null,"FailColumns":null,"Success":true,"DisplayLimitInfoModel":null}],"SingleGoodsNo":2960344152,"Total":1,"Success":true,"SuccessCount":1}]}
+INFO:root:{"code":"SUCCESS","message":"14516166392가 삭제되었습니다.","data":"14516166392"}
+INFO:root:{"code":"SUCCESS","message":"14515971006가 삭제되었습니다.","data":"14515971006"}
+INFO:root:{"code":"ERROR","message":"업체상품[14516118667]이 없거나 삭제가 불가능한 상태입니다. 삭제는 '저장중', '임시저장' 상태에서만 가능합니다."}
+INFO:root:{"code":"SUCCESS","message":"14516182031가 삭제되었습니다.","data":"14516182031"}
+INFO:root:{"code":"SUCCESS","message":"14515985466가 삭제되었습니다.","data":"14515985466"}
+INFO:root:{"code":"SUCCESS","message":"14516197242가 삭제되었습니다.","data":"14516197242"}
+INFO:root:네이버 삭제 살패 : 입력정보가 올바르지 않습니다.
+INFO:root:{"code":"SUCCESS","message":"14516177365가 삭제되었습니다.","data":"14516177365"}
+INFO:root:{"code":"SUCCESS","message":"14515992002가 삭제되었습니다.","data":"14515992002"}
+INFO:root:{"code":"SUCCESS","message":"14515989792가 삭제되었습니다.","data":"14515989792"}
+INFO:root:네이버 삭제 살패 : 입력정보가 올바르지 않습니다.

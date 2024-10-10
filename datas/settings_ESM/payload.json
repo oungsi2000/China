@@ -1,0 +1,843 @@
+{
+    "model": {
+        "GoodsNo": null,
+        "SiteGoodsNo": null,
+        "IsIacSellingStatus": "0",
+        "IsIacSellingStatusSpecified": true,
+        "CommandType": "1",
+        "IsLeaseAllowedInIac": false,
+        "CallFrom": "0",
+        "SYIStep1": {
+            "PurchaseBenefits": {},
+            "RegMarketType": "0",
+            "SiteSellerId": [
+                {
+                    "key": "1",
+                    "value": ""
+                },
+                {
+                    "key": "2",
+                    "value": ""
+                }
+            ],
+            "CatalogId": "0",
+            "CatalogName": "",
+            "CatalogLowestPrice": "0",
+            "SellType": "1",
+            "GoodsType": "1",
+            "GoodsName": {
+                "InputType": "1",
+                "GoodsName": "",
+                "SiteGoodsName": [
+                    {
+                        "key": "1",
+                        "value": ""
+                    },
+                    {
+                        "key": "2",
+                        "value": ""
+                    }
+                ],
+                "SiteGoodsNameEng": [
+                    {
+                        "key": "1",
+                        "value": ""
+                    },
+                    {
+                        "key": "2",
+                        "value": ""
+                    }
+                ],
+                "SiteGoodsNameChn": [
+                    {
+                        "key": "1",
+                        "value": ""
+                    },
+                    {
+                        "key": "2",
+                        "value": ""
+                    }
+                ],
+                "SiteGoodsNameJpn": [
+                    {
+                        "key": "1",
+                        "value": ""
+                    },
+                    {
+                        "key": "2",
+                        "value": ""
+                    }
+                ],
+                "UseSellerNicknameIac": false,
+                "AdMessageIac": ""
+            },
+            "SiteCategoryCode": [
+                {
+                    "key": "1",
+                    "value": ""
+                },
+                {
+                    "key": "2",
+                    "value": ""
+                }
+            ],
+            "SiteGoodsClassList": [
+                {
+                    "key": "1",
+                    "value": ""
+                },
+                {
+                    "key": "2",
+                    "value": ""
+                }
+            ],
+            "Book": {
+                "STCode": "",
+                "IsSTCodeImage": false,
+                "ISBNCode": "",
+                "IsbnCodeAllowYn": "",
+                "Name": "",
+                "Author": "",
+                "Publisher": "",
+                "Price": "0",
+                "PublishDate": null,
+                "MakerName": "",
+                "MakerNo": "",
+                "BrandName": "",
+                "BrandNo": "0",
+                "ImgSmall": "",
+                "Title": "",
+                "Translater": ""
+            },
+            "MakerId": "0",
+            "MakerName": "",
+            "UserDefineMakerName": "",
+            "BrandId": "0",
+            "BrandName": "",
+            "UserDefineBrandName": "",
+            "GmktShopKind1": "-1",
+            "GmktShopKind2": "-1",
+            "GmktShopKind3": "-1",
+            "StatusCode": "",
+            "StoreShopCategoryGoods": {
+                "CategoryLevel": "0",
+                "ShopLCategoryCode": "00000000",
+                "ShopMCategoryCode": "00000000",
+                "ShopSCategoryCode": "00000000"
+            },
+            "MiniShopCategoryGoods": {
+                "CategoryLevel": "0",
+                "ShopLCategoryCode": "00000000",
+                "ShopMCategoryCode": "00000000",
+                "ShopSCategoryCode": "00000000"
+            },
+            "IsTPLGoods": false,
+            "AdminRestrict": "",
+            "SiteSellerAdjustCommissionPrice": {
+                "IacOpenAdjustCommissionPrice": "0",
+                "IacSpecialAdjustCommissionPrice": "0",
+                "GmktOpenAdjustCommissionPrice": "0",
+                "GmktSpecialAdjustCommissionPrice": "0"
+            },
+            "CatalogInfo": {
+                "CatalogId": "0",
+                "CatalogIdSpecified": true,
+                "CatalogName": null,
+                "LowestPrice": "0",
+                "LowestPriceSpecified": true,
+                "ImageUrl": null,
+                "MakerId": "0",
+                "MakerIdSpecified": true,
+                "MakerName": null,
+                "BrandId": "0",
+                "BrandIdSpecified": true,
+                "BrandName": null,
+                "ModelName": null,
+                "MainDescription": null,
+                "MatchingItemCount": "0",
+                "MatchingItemCountSpecified": true,
+                "ProductionDate": null,
+                "ProductionDateSpecified": false,
+                "ProductionDateType": "0",
+                "ProductionDateTypeSpecified": true,
+                "PriceRenovationDate": null,
+                "PriceRenovationDateSpecified": false,
+                "IsAdult": false,
+                "IsAdultSpecified": true,
+                "IsBook": false,
+                "IsBookSpecified": true
+            },
+            "IsItemNameChangeAllowed": false
+        },
+        "SYIStep2": {
+            "SellingStatus": "0",
+            "GoodsStatus": "1",
+            "UsedMonths": null,
+            "IsGMKTEnvironmentFriendlyCertType": false,
+            "IsIACEnvironmentFriendlyCertType": false,
+            "Price": {
+                "InputType": "1",
+                "GoodsPrice": "",
+                "GoodsPriceIAC": "",
+                "GoodsPriceGMKT": "",
+                "IsUserCustomSettlementGMKT": false,
+                "GoodsPriceSettlementGMKT": "0",
+                "BookPrice": "0",
+                "OrgGoodsPrice": ""
+            },
+            "PricePerUnit": {
+                "Unit": "",
+                "UnitPrice": ""
+            },
+            "WirelessCallingPlan": {
+                "PhoneFeeType": "0",
+                "PhoneFeeUrl": "",
+                "Plans": {},
+                "MobilePhoneFeeUrl": ""
+            },
+            "MobileDevicePrice": {
+                "PhoneDevicePrice": "",
+                "PhoneSupportDiscount": "",
+                "MakerSupportDiscount": "",
+                "TeleComSupportDiscount": "",
+                "PhoneAddDiscount": "",
+                "PhoneInstallmentPrice": ""
+            },
+            "Stock": {
+                "InputType": "1",
+                "GoodsCount": "5000",
+                "SiteGoodsCountNo": "0",
+                "BuyableQuantityType": "0",
+                "BuyableQuantity": "",
+                "BuyableQuantityDay": "",
+                "GoodsCountIAC": "5000",
+                "GoodsCountGMKT": "5000"
+            },
+            "Options": {
+                "InputType": "1",
+                "OptVerType": "2",
+                "OptVerTypeIAC": "1",
+                "OptVerTypeGMKT": "1",
+                "JsonData": "",
+                "JsonDataIAC": "",
+                "JsonDataGMKT": "",
+                "JsonDataLegacy": null
+            },
+            "OrderOption": {
+                "GoodsNo": null,
+                "OptType": "0",
+                "StockMngIs": null,
+                "UnifyStockIs": null,
+                "OptionNameInfo": {
+                    "OptName1": null,
+                    "RcmdOptNo1": null,
+                    "OptName2": null,
+                    "RcmdOptNo2": null,
+                    "OptName3": null,
+                    "RcmdOptNo3": null,
+                    "OptName4": null,
+                    "RcmdOptNo4": null,
+                    "OptName5": null,
+                    "RcmdOptNo5": null,
+                    "OptionNameLangList": {}
+                },
+                "OptionInfoList": {}
+            },
+            "Additions": {
+                "InputType": "1",
+                "JsonData": "",
+                "JsonDataIAC": "",
+                "JsonDataGMKT": "",
+                "JsonDataLegacy": null,
+                "CommonGoodsNo": null,
+                "IsUseCommonGoods": false
+            },
+            "AddonService": {
+                "AddonServiceUseType": "0",
+                "AddonServiceList": {}
+            },
+            "SellingPeriod": {
+                "InputType": "1",
+                "IAC": {
+                    "StartDate": "",
+                    "EndDate": ""
+                },
+                "GMKT": {
+                    "StartDate": "",
+                    "EndDate": ""
+                },
+                "History": {}
+            },
+            "PreSale": {
+                "UseSettingIAC": false,
+                "SaleStartDateIAC": ""
+            },
+            "GoodsImage": {},
+            "DescriptionTypeSpecified": true,
+            "Description": {
+                "InputType": "1",
+                "Text": "",
+                "TextIAC": "",
+                "TextGMKT": ""
+            },
+            "NewDescription": {
+                "InputType": "1",
+                "Text": "",
+                "TextChn": "",
+                "TextJpn": "",
+                "TextIAC": "",
+                "TextGMKT": "",
+                "TextAdd": "",
+                "TextAddEng": "",
+                "TextAddChn": "",
+                "TextAddJpn": "",
+                "TextAddIAC": "",
+                "TextAddGMKT": "",
+                "TextPrmt": "",
+                "TextPrmtIAC": "",
+                "TextPrmtGMKT": ""
+            },
+            "ItemCode": "",
+            "CustCategoryNo": "0",
+            "CustCategory": "카테고리",
+            "ExpiryDate": "--",
+            "ExpiryDateSpecified": true,
+            "LaunchingDate": "undefined-undefined-undefined",
+            "LaunchingDateSpecified": true,
+            "ManufacturedDate": "--",
+            "ManufacturedDateSpecified": true,
+            "Origin": {
+                "ProductType": null,
+                "Type": "0",
+                "Name": "",
+                "Code": "",
+                "IsMultipleOrigin": false
+            },
+            "LegacyRawMaterials": null,
+            "RawMaterials": null,
+            "Capacity": {
+                "Volume": null,
+                "Unit": "0",
+                "IsMultipleVolume": false
+            },
+            "Manual": null,
+            "ECoupon": {
+                "MoneyType": "0",
+                "Price": "0",
+                "Ratio": "0",
+                "CouponName": null,
+                "ExpireType": "0",
+                "Expire1StartDate": "",
+                "Expire1EndDate": "",
+                "Expire2Start": "0",
+                "Expire2Duration": "0",
+                "UseTermType": "0",
+                "UseTerm1StartDate": "",
+                "UseTerm1EndDate": "",
+                "UseTerm2Start": "0",
+                "UseTerm2Duration": "0",
+                "isDiffDate": false,
+                "CouponTemplate": "0",
+                "CouponImageUrl": null,
+                "DownloadTemplate": "0",
+                "DownloadImageUrl": null,
+                "ApplyPlace": null,
+                "ApplyPlaceKind": "BranchAddress",
+                "AddressNo": null,
+                "IsInformByAddress": false,
+                "Address": null,
+                "IsInformByURL": false,
+                "URL": null,
+                "ApplyPlacePriority": "0",
+                "MobileUseInfo": null,
+                "MobileHelpDeskphoneNo": null,
+                "TelephoneNo": null,
+                "AdditionalBenefit": null,
+                "HasRestrictCondition": false,
+                "RestrictCondition": null,
+                "Guide": null,
+                "PublicationCorp": null,
+                "PublicationCorpURL": null,
+                "IsCustomerNameView": false
+            },
+            "DeliveryInfo": {
+                "CommonDeliveryUseYn": true,
+                "InvalidDeliveryInfo": false,
+                "CommonDeliveryWayOPTSEL": "1",
+                "GmktDeliveryWayOPTSEL": "0",
+                "IsCommonGmktUnifyDelivery": false,
+                "GmktDeliveryCOMP": "100000012",
+                "IacDeliveryCOMP": "10013",
+                "IsCommonVisitTake": false,
+                "IsCommonQuickService": false,
+                "IsCommonIACPost": false,
+                "CommonIACPostType": "0",
+                "CommonIACPostPaidPrice": "0",
+                "IsGmktVisitTake": false,
+                "IsGmktQuickService": false,
+                "IsGmktTodayDEPAR": false,
+                "IsGmktTodayDEPARAgree": false,
+                "IsGmktVisitReceiptTier": false,
+                "MountBranchGroupSeq": "0",
+                "CommonVisitTakeType": "0",
+                "CommonVisitTakePriceDcAmnt": "0",
+                "CommonVisitTakeFreeGiftName": null,
+                "CommonVisitTakeADDRNo": null,
+                "CommonQuickServiceCOMPName": null,
+                "CommonQuickServicePhone": null,
+                "CommonQuickServiceDeliveryEnableRegionNo": null,
+                "ShipmentPlaceNo": "",
+                "DeliveryFeeType": "1",
+                "BundleDeliveryYNType": "1",
+                "BundleDeliveryTempNo": "",
+                "EachDeliveryFeeType": null,
+                "EachDeliveryFeeQTYEachGradeType": null,
+                "DeliveryFeeTemplateJSON": "{\"DeliveryFeeType\": 0, \"DeliveryFeeSubType\": 0, \"FeeAmnt\": 0, \"PrepayIs\": false, \"CodIs\": false, \"JejuAddDeliveryFee\": 4000, \"BackwoodsAddDeliveryFee\": 8000, \"ShipmentPlaceNo\": 20326056, \"DetailList\": []}",
+                "EachDeliveryFeePayYn": null,
+                "IsCommonGmktEachADDR": false,
+                "ReturnExchangeADDRNo": "",
+                "OldReturnExchangeADDR": null,
+                "OldReturnExchangeADDRTel": null,
+                "OldReturnExchangeSetupDeliveryCOMPName": null,
+                "OldReturnExchangeDeliveryFeeStr": null,
+                "ExchangeADDRNo": "",
+                "ReturnExchangeSetupDeliveryCOMP": null,
+                "ReturnExchangeSetupDeliveryCOMPName": null,
+                "ReturnExchangeDeliveryFee": "0",
+                "ReturnExchangeDeliveryFeeStr": "15000",
+                "IacTransPolicyNo": "",
+                "GmktTransPolicyNo": "",
+                "BackwoodsDeliveryYn": null,
+                "IsTplConvertible": false,
+                "IsGmktIACPost": false
+            },
+            "IsAdultProduct": false,
+            "IsVATFree": false,
+            "ASInfo": null,
+            "CertIAC": {
+                "HasIACCertType": false,
+                "MedicalInstrumentCert": {
+                    "ItemLicenseNo": null,
+                    "AdDeliberationNo": null,
+                    "IsUse": false,
+                    "CertificationOfficeName": null,
+                    "CertificationNo": null,
+                    "Operation": "0"
+                },
+                "BroadcastEquipmentCert": {
+                    "BroadcastEquipmentIs": false,
+                    "AddtionalConditionIs": false,
+                    "IsUse": false,
+                    "CertificationOfficeName": null,
+                    "CertificationNo": null,
+                    "Operation": "0"
+                },
+                "FoodCert": {
+                    "IsUse": false,
+                    "CertificationOfficeName": null,
+                    "CertificationNo": null,
+                    "Operation": "0"
+                },
+                "HealthFoodCert": {
+                    "AdDeliberationNo": null,
+                    "IsUse": false,
+                    "CertificationOfficeName": null,
+                    "CertificationNo": null,
+                    "Operation": "0"
+                },
+                "EnvironmentFriendlyCert": {
+                    "CertificationType": null,
+                    "isIACEnvironmentFriendlyCertType": false,
+                    "isGMKTEnvironmentFriendlyCertType": false,
+                    "CertBizType": null,
+                    "ProducerName": null,
+                    "PresidentInfoNA": null,
+                    "RepItemName": null,
+                    "InfoHT": null,
+                    "CertGroupType": null,
+                    "InfoEM": null,
+                    "CertStartDate": null,
+                    "CertEndDate": null,
+                    "InfoAD": null,
+                    "CertificationOfficeName": null,
+                    "CertificationExpiration": null,
+                    "IsUse": false,
+                    "CertificationNo": null,
+                    "Operation": "0"
+                },
+                "SafeCert": {
+                    "SafeCertType": "0",
+                    "AuthItemType": "0",
+                    "CertificationNo": null,
+                    "IsUse": null,
+                    "CertificationOfficeName": null,
+                    "Operation": "0"
+                },
+                "ChildProductSafeCert": {
+                    "ChangeType": "0",
+                    "SafeCertDetailInfoList": null
+                },
+                "IntegrateSafeCert": {
+                    "ItemNo": null,
+                    "IntegrateSafeCertGroupList": [
+                        {
+                            "SafeCertGroupNo": "1",
+                            "CertificationType": "1"
+                        },
+                        {
+                            "SafeCertGroupNo": "2",
+                            "CertificationType": "1"
+                        },
+                        {
+                            "SafeCertGroupNo": "3",
+                            "CertificationType": "1"
+                        }
+                    ]
+                }
+            },
+            "CertificationNoGMKT": "",
+            "LicenseSeqGMKT": {},
+            "OfficialNotice": {
+                "NoticeItemGroupNo": "35",
+                "NoticeItemCodes": [
+                    {
+                        "NoticeItemCode": "35-1",
+                        "NoticeItemValue": "상세설명참조"
+                    },
+                    {
+                        "NoticeItemCode": "35-2",
+                        "NoticeItemValue": "상세설명참조"
+                    },
+                    {
+                        "NoticeItemCode": "35-3",
+                        "NoticeItemValue": "상세설명참조"
+                    },
+                    {
+                        "NoticeItemCode": "35-4",
+                        "NoticeItemValue": "상세설명참조"
+                    },
+                    {
+                        "NoticeItemCode": "35-5",
+                        "NoticeItemValue": "상세설명참조"
+                    },
+                    {
+                        "NoticeItemCode": "35-6",
+                        "NoticeItemValue": "상세설명참조"
+                    },
+                    {
+                        "NoticeItemCode": "999-5",
+                        "NoticeItemValue": ""
+                    }
+                ]
+            },
+            "ItemWeight": "0",
+            "SkuList": {},
+            "SkuMatchingVerNo": "0",
+            "RentalAddInfo": null,
+            "CertificationTextGMKT": null,
+            "LicenseTextGMKT": null,
+            "InventoryNo": null,
+            "SingleSellerShop": null,
+            "IsUseSellerFunding": null,
+            "IsGift": true,
+            "ConsultingDetailList": {}
+        },
+        "SYIStep3": {
+            "G9RegisterCommand": "0",
+            "IsG9Goods": false,
+            "IsOnlyG9Goods": false,
+            "SellerDiscount": {
+                "DiscountAmtIac1":"",
+                "DiscountAmtIac2":null,
+                "DiscountAmtGmkt1":"",
+                "DiscountAmtGmkt2":null,
+                "IsSellerDCExceptionIacItem":false,
+                "IsSellerDCExceptionGmktItem":false,
+                "IsUsed":"1",
+                "IsUsedSpecified":false,
+                "DiscountType":"1",
+                "DiscountTypeSpecified":false,
+                "DiscountAmt":"",
+                "DiscountAmtSpecified":false,
+                "DiscountAmt1":"",
+                "DiscountAmt1Specified":false,
+                "DiscountAmt2":null,
+                "DiscountAmt2Specified":false,
+                "StartDate":"2023-12-21",
+                "StartDateSpecified":false,
+                "EndDate":"9999-12-31",
+                "EndDateSpecified":false,
+                "DiscountTypeIac":"1",
+                "DiscountTypeSpecifiedIac":false,
+                "StartDateIac":"2023-12-21",
+                "StartDateSpecifiedIac":false,
+                "EndDateIac":"9999-12-31",
+                "IacEndDateSpecified":false,
+                "DiscountAmtIac":"50000",
+                "DiscountAmtSpecifiedIac":false,
+                "DiscountTypeGmkt":"1",
+                "DiscountTypeSpecifiedGmkt":false,
+                "StartDateGmkt":"2023-12-21",
+                "StartDateSpecifiedGmkt":false,
+                "EndDateGmkt":"9999-12-31",
+                "EndDateSpecifiedGmkt":false,
+                "DiscountAmtGmkt":"",
+                "DiscountAmtSpecifiedGmkt":false
+            },
+            "FreeGift": {
+                "IsUsed": "2",
+                "IsUsedSpecified": true,
+                "IsOnly": "1",
+                "IsOnlySpecified": true,
+                "IacFreeGiftName": "",
+                "GmkFreeGiftName": ""
+            },
+            "IsPcs": true,
+            "IsPcsSpecified": true,
+            "IacPcsCoupon": true,
+            "IacPcsCouponSpecified": true,
+            "GmkPcsCoupon": true,
+            "GmkPcsCouponSpecified": true,
+            "GmkBargain": false,
+            "GmkBargainSpecified": true,
+            "IacFreeWishKeyword": [],
+            "IacDiscountAgreement": true,
+            "IacDiscountAgreementSpecified": true,
+            "GmkDiscountAgreement": true,
+            "GmkDiscountAgreementSpecified": true,
+            "GmkOverseaAgreementSeller": true,
+            "GmkOverseaAgreementSellerSpecified": true,
+            "IacBuyerBenefit": {
+                "IsUsed": "2",
+                "IsUsedSpecified": true,
+                "StartDate": "",
+                "StartDateSpecified": true,
+                "EndDate": "",
+                "EndDateSpecified": true,
+                "IsMemberDiscount": false,
+                "IsMemberDiscountSpecified": true,
+                "MemberDiscountPrice": "0",
+                "MemberDiscountPriceSpecified": true,
+                "IsBulkDiscount": false,
+                "IsBulkDiscountSpecified": true,
+                "BulkDiscountQty": "0",
+                "BulkDiscountQtySpecified": true,
+                "BulkDiscountPrice": "0",
+                "BulkDiscountPriceSpecified": true
+            },
+            "GmkBuyerBenefit": {
+                "IsUsed": "2",
+                "IsUsedSpecified": true,
+                "Type": "",
+                "StartDate": "",
+                "StartDateSpecified": true,
+                "EndDate": "",
+                "EndDateSpecified": true,
+                "ConditionType": "",
+                "ConditionValue": "0",
+                "ConditionValueSpecified": true,
+                "Unit": "",
+                "UnitValue": "0",
+                "UnitValueSpecified": true,
+                "WhoFee": ""
+            },
+            "IacDonation": {
+                "IsUsed": "2",
+                "IsUsedSpecified": true,
+                "StartDate": "",
+                "StartDateSpecified": true,
+                "EndDate": "",
+                "EndDateSpecified": true,
+                "DonationPrice": "0",
+                "DonationPriceSpecified": true,
+                "DonationMaxPrice": "0",
+                "DonationMaxPriceSpecified": true,
+                "DonationType": ""
+            },
+            "GmkDonation": {
+                "IsUsed": "2",
+                "IsUsedSpecified": true,
+                "StartDate": "",
+                "StartDateSpecified": true,
+                "EndDate": "",
+                "EndDateSpecified": true,
+                "DonationPrice": "0",
+                "DonationPriceSpecified": true,
+                "DonationMaxPrice": "0",
+                "DonationMaxPriceSpecified": true,
+                "DonationType": ""
+            },
+            "IacSellerPoint": {
+                "IsUsed": "2",
+                "IsUsedSpecified": true,
+                "PointType": "1",
+                "PointTypeSpecified": true,
+                "Point": "0",
+                "PointSpecified": true
+            },
+            "GmkSellerMileage": {
+                "IsUsed": "2",
+                "IsUsedSpecified": true,
+                "PointType": "1",
+                "PointTypeSpecified": true,
+                "Point": "0",
+                "PointSpecified": true
+            },
+            "IacChance": {
+                "IsUsed": "2",
+                "IsUsedSpecified": true,
+                "StartDate": "",
+                "StartDateSpecified": true,
+                "EndDate": "",
+                "EndDateSpecified": true,
+                "ChanceQty": "0"
+            },
+            "IacBrandShop": {
+                "IsUsed": "2",
+                "IsUsedSpecified": true,
+                "LCategoryCode": "",
+                "MCategoryCode": "",
+                "SCategoryCode": "",
+                "BrandCode": "",
+                "BrandName": "",
+                "BrandImage": {}
+            },
+            "GmkBizOn": {
+                "IsUsed": "2",
+                "IsUsedSpecified": true,
+                "LCategoryCode": "",
+                "MCategoryCode": "",
+                "SCategoryCode": ""
+            },
+            "IacAdditional": {},
+            "GmkAdditional": {},
+            "IacPayWishKeyword": {},
+            "IacAdPromotion": {
+                "CategorySmart": {
+                    "LCategoryPrice": "0",
+                    "LCategoryPriceSpecified": true,
+                    "MCategoryPrice": "0",
+                    "MCategoryPriceSpecified": true,
+                    "SCategoryPrice": "0",
+                    "SCategoryPriceSpecified": true,
+                    "BestMainPrice": "0",
+                    "BestMainPriceSpecified": true
+                },
+                "CategoryPower": {
+                    "LCategoryPrice": "0",
+                    "LCategoryPriceSpecified": true,
+                    "MCategoryPrice": "0",
+                    "MCategoryPriceSpecified": true,
+                    "SCategoryPrice": "0",
+                    "SCategoryPriceSpecified": true,
+                    "BestMainPrice": "0",
+                    "BestMainPriceSpecified": true
+                },
+                "Best100Smart": {
+                    "LCategoryPrice": "0",
+                    "LCategoryPriceSpecified": true,
+                    "MCategoryPrice": "0",
+                    "MCategoryPriceSpecified": true,
+                    "SCategoryPrice": "0",
+                    "SCategoryPriceSpecified": true,
+                    "BestMainPrice": "0",
+                    "BestMainPriceSpecified": true
+                },
+                "Chance": {
+                    "LCategoryPrice": "0",
+                    "LCategoryPriceSpecified": true,
+                    "MCategoryPrice": "0",
+                    "MCategoryPriceSpecified": true,
+                    "SCategoryPrice": "0",
+                    "SCategoryPriceSpecified": true,
+                    "BestMainPrice": "0",
+                    "BestMainPriceSpecified": true
+                },
+                "AccessMode": "1",
+                "AccessModeSpecified": true
+            },
+            "GmkAdPromotion": {
+                "LargePlus": "0",
+                "LargePlusSpecified": true,
+                "LargePowerMini": "0",
+                "LargePowerMiniSpecified": true,
+                "LargeBestPower": "0",
+                "LargeBestPowerSpecified": true,
+                "MiddlePlus": "0",
+                "MiddlePlusSpecified": true,
+                "MiddlePower": "0",
+                "MiddlePowerSpecified": true,
+                "MiddleDetailPower": "0",
+                "MiddleDetailPowerSpecified": true,
+                "MiddleBestPower": "0",
+                "MiddleBestPowerSpecified": true,
+                "SmallPlus": "0",
+                "SmallPlusSpecified": true,
+                "SmallPower": "0",
+                "SmallPowerSpecified": true
+            },
+            "OverseaAgree": {
+                "Gubun": "0",
+                "GubunSpecified": false,
+                "OverseaDisAgreeIs": false
+            },
+            "IsLeaseAvailableInIac": false,
+            "GmktShopGroupCd": "0",
+            "IsIacFreeWishKeyword": false,
+            "IacFreeWishKeywordEndDate": false,
+            "IacCommissionRate": "0",
+            "IacCommissionRateOpenMarket": "0",
+            "IacCommissionRateGroupBy": "0",
+            "IsIacFeeDiscountItem": false,
+            "IsDispExclude": true,
+            "IsDispExcludeSpecified": true
+        },
+        "IsSingleGoods": false,
+        "SiteGoodsNoIac": null,
+        "SiteGoodsNoGmkt": null,
+        "GoodsKind": null,
+        "BarCode": null,
+        "IsSiteDisplayIac": false,
+        "IsSiteDisplayGmkt": false,
+        "SellingStatusIac": null,
+        "SellingStatusGmkt": null,
+        "MasterId": "",
+        "LoginId": "",
+        "IsDeleteGroup": false,
+        "EditorUseYn": null,
+        "SdInfo": {
+            "SdCategoryCode": "00070007000200020005",
+            "SdBrandName": null,
+            "SdMakerId": "0",
+            "SdMakerName": null,
+            "SdBrandId": "0",
+            "SdProductBrandId": "0",
+            "SdProductBrandName": null,
+            "EpinCodeList": {},
+            "SdAttrMatchingList": {},
+            "SdBasicAttrMatching": {
+                "SalesUnit": "0",
+                "SalesUnitSpecified": true,
+                "EaPerBox": "0",
+                "EaPerBoxSpecified": true,
+                "EaPerPack": "0",
+                "EaPerPackSpecified": true,
+                "TotalEa": "0",
+                "TotalEaSpecified": true,
+                "TotalUnitAmount": "0",
+                "TotalUnitAmountSpecified": true,
+                "UnitAttrSeq": "0",
+                "UnitAttrSeqSpecified": true,
+                "UnitAttrValueSeq": "0",
+                "UnitAttrValueSeqSpecified": true
+            },
+            "EpinCreateReqBarcode": null,
+            "EpinCreateReqModelName": null,
+            "EpinCreateReqModelNo": null
+        },
+        "BuyableQuantityMappingType": "1",
+        "IsIacConvertToSingleGoods": false,
+        "IsGmktConvertToSingleGoods": false,
+        "AdminId": null
+    }
+}

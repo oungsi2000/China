@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+                background-color: #F5F5F7;
+                overflow: hidden;
+            }
+            ::-webkit-scrollbar {
+                display: none;
+            }
+          .main {
+            display: flex;
+            flex-direction: column;
+            width: 300px;
+            height: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: auto;
+            margin-bottom: auto;
+          }
+          .title_box{
+            margin-top: 60px;
+            margin-left: 30px;
+          }
+          .title {
+            color: #000;
+            font-family: Spoqa Han Sans Neo;
+            font-size: 24px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+          }
+          .input_bar {
+            margin-top: 12px;
+            margin-left:30px;
+            width: 240px;
+            height: 41px;
+            flex-shrink: 0;
+            border-radius: 10px;
+            background: #FFF;
+
+            /* 그림자스타일1 */
+            box-shadow: 0px 0px 15px -5px rgba(0, 0, 0, 0.10);
+          }
+
+          ::placeholder {
+            color: #808080;
+            font-family: Spoqa Han Sans Neo;
+            font-size: 13px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+          }
+
+          .search_result {
+            overflow: auto;
+            display: flex;
+            flex-direction: column;
+            margin-top: 12px;
+            margin-left:30px;
+            width: 240px;
+            height: 350px;
+            flex-shrink: 0;
+            border-radius: 15px;
+            background: #FFF;
+
+            /* 그림자스타일1 */
+            box-shadow: 0px 0px 15px -5px rgba(0, 0, 0, 0.10);
+          }
+
+          .confirm {
+            border: none;
+            margin-top: 36px;
+            margin-left: 94px;
+            margin-bottom: 70px;
+            width: 111px;
+            height: 41px;
+            flex-shrink: 0;
+            border-radius: 15px;
+            background: #F90;
+            /* 그림자스타일1 */
+            box-shadow: 0px 0px 15px -5px rgba(0, 0, 0, 0.10);
+          }
+
+          .click {
+            color: #FFF;
+            font-family: Spoqa Han Sans Neo;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+          }
+
+          .input {
+            border: none;
+            margin-top: 12px;
+            margin-left: 14px;
+            width: 212px;
+          }
+
+          input:focus {
+            outline: none;
+            border: none;
+            }
+            button:disabled {
+            background-color: #dedede;
+            }
+            
+        .content {
+            color: #808080;
+            font-family: Spoqa Han Sans Neo;
+            font-size: 13px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        }
+
+        .content_no_result {
+            color: #808080;
+            font-family: Spoqa Han Sans Neo;
+            font-size: 13px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        }
+
+        .content:hover{
+            color:#000
+        }
+
+
+        .content-box {
+            border: none;
+            background-color: #FFF;
+            text-align: left;
+            margin-top: 12px;
+            margin-left: 14px;
+            margin-right: 14px;
+            margin-bottom: 0px;
+        }
+
+        </style>
+    </head>
+
+    <body>
+        <div class="main">
+            <div class="title_box">
+                <span class="title">
+                    카테고리 검색
+                </span>
+            </div>   
+            <div class="input_bar">
+                <input class="input" type="text", placeholder="쿠팡 카테고리로 검색">
+                    
+                </input>
+            </div>
+            <div class="search_result">
+
+            </div>
+        </div>
+        <script>
+            var element = document.querySelector('.input')
+            element.addEventListener('keydown', (event)=>{
+                if (event.key === 'Enter'){
+                    window.electron.send('load-matched-category', element.value)
+                    window.electron.on('complete' ,(event, arg)=>{
+                    var search_box = document.querySelector('.search_result')
+                    search_box.innerHTML = "";
+
+                        for (var obj of arg){
+                            var result = document.createElement('span'); 
+                            var result_box = document.createElement('button')
+                            
+                            result_box.className = 'content-box'
+
+                            result.textContent = obj
+                            result.className = 'content'
+                            if (result.textContent == '검색결과 없음'){
+                                result.className = 'content_no_result'
+                            }
+                            result_box.onclick = function () {
+                                if(this.firstChild.textContent != '검색결과 없음'){
+                                window.electron.send('set-category', this.firstChild.textContent)
+                                }
+                            }
+
+                            result_box.appendChild(result)
+                            search_box.appendChild(result_box)
+                            
+                        };
+                    })
+                }
+            })
+        </script>
+        <script>
+            window.electron.once('close-window', (event, arg)=>{
+                window.alert('카테고리 매칭이 완료되었습니다')
+                window.close()
+            })
+        </script>
+    </body>
+
+</html>

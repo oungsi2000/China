@@ -1,0 +1,6 @@
+#노드js 모듈
+**/node_modules/
+dist/
+build/
+out/
+.electron/

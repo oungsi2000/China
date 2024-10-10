@@ -1,0 +1,5 @@
+INFO:root:네이버 삭제 살패 : 입력정보가 올바르지 않습니다.
+INFO:root:네이버 삭제 살패 : 입력정보가 올바르지 않습니다.
+INFO:root:네이버 삭제 살패 : 입력정보가 올바르지 않습니다.
+INFO:root:네이버 삭제 살패 : 입력정보가 올바르지 않습니다.
+INFO:root:{"Total":1,"Success":1,"Info":[{"Info":[{"SiteId":"옥션","SingleGoodsNo":0,"SiteGoodsNo":"D744787748","ItemName":null,"Message":"정상적으로 수정되었습니다.","Status":"성공","ErrorMessage":null,"FailColumns":null,"Success":true,"DisplayLimitInfoModel":null},{"SiteId":"지마켓","SingleGoodsNo":0,"SiteGoodsNo":"3333816166","ItemName":null,"Message":"정상적으로 수정되었습니다.","Status":"성공","ErrorMessage":null,"FailColumns":null,"Success":true,"DisplayLimitInfoModel":null}],"SingleGoodsNo":2979282190,"Total":1,"Success":true,"SuccessCount":1}]}

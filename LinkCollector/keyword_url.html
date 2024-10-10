@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background-color:#f5f5f7;
+            overflow: hidden;
+        }
+        .input_box {
+        position: relative;
+        margin-top: 12px;
+        left:30px;
+        width: 240px;
+        height: 41px;
+        flex-shrink: 0;
+        border-radius: 10px;
+        background: #FFF;
+
+        /* 그림자스타일1 */
+        box-shadow: 0px 0px 15px -5px rgba(0, 0, 0, 0.10);
+        }
+        .title {
+        position: absolute;
+        top:60px;
+        left: 30px;
+        color: #000;
+        font-family: Spoqa Han Sans Neo;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        }
+        .container {
+        position: absolute;
+        top: 102px;
+        left: auto;
+        right: auto;
+        }
+        .confirm {
+        border: none;
+        position: absolute;
+        top: 300px;
+        left: 94px;
+        width: 111px;
+        height: 41px;
+        flex-shrink: 0;
+        border-radius: 15px;
+        background: #F90;
+        color: #FFF;
+        font-family: Spoqa Han Sans Neo;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        cursor: pointer;
+
+        /* 그림자스타일1 */
+        box-shadow: 0px 0px 15px -5px rgba(0, 0, 0, 0.10);
+        }
+        ::placeholder {
+        color: #808080;
+        font-family: Spoqa Han Sans Neo;
+        font-size: 13px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        }
+        .input {
+        border: none;
+        margin-top: 12px;
+        margin-left: 14px;
+        width: 212px;
+        }
+        input:focus {
+        outline: none;
+        border: none;
+        }
+        button:disabled {
+        background-color: #dedede;
+        cursor: default;
+        }
+        
+    </style>
+</head>
+<body>
+    <span class="title">
+       키워드 설정 
+    </span>
+    
+    <div class="container">
+        <div class="input_box">
+            <input class="input", id="1", type="text", placeholder="키워드 1 입력", oninput="checkInput()">
+        </div>
+        <div class="input_box">
+            <input class="input", id="2", type="text", placeholder="키워드 2 입력", oninput="checkInput()">
+        </div>
+        <div class="input_box">
+            <input class="input", id="3", type="text", placeholder="키워드 3 입력", oninput="checkInput()">
+        </div>
+    </div>
+
+    <button class="confirm", disabled, onclick="set_keyword()">
+        적용
+    </button>
+
+    <script>
+        function checkInput() {
+          var inputValue1 = document.getElementsByClassName("input")[0].value;
+          var inputValue2 = document.getElementsByClassName("input")[1].value;
+          var inputValue3 = document.getElementsByClassName("input")[2].value;
+          var inputValue = inputValue1+inputValue2+inputValue3
+
+          if (inputValue == '') {
+            btn = document.getElementsByClassName("confirm")[0]
+            btn.disabled = true;
+          } else {
+            btn = document.getElementsByClassName("confirm")[0]
+            btn.disabled = false;
+          }
+        }
+        checkInput()
+    </script>
+    <script>
+        function set_keyword(){
+            keyword1 = document.getElementById('1').value;
+            keyword2 = document.getElementById('2').value;
+            keyword3 = document.getElementById('3').value;
+            
+            keywords = [keyword1, keyword2, keyword3]
+            window.electron.send('set-keyword', keywords)
+        }
+    </script>
+     <script>
+        window.electron.on('keyword-done', ()=>{
+            window.alert('키워드 매칭이 완료되었습니다')
+            window.close()
+        })
+    </script>
+</body>
+</html>

@@ -1,0 +1,164 @@
+{
+    "product": {
+        "accountNo": "",
+        "logisticsCenterStocks": [],
+        "saleType": "NEW",
+        "excludeAdminDiscount": false,
+        "excludeGivePresent": false,
+        "excludeGiftValidPeriodExtension": false,
+        "payExposure": true,
+        "images": [
+            
+        ],
+        "videos": [],
+        "detailAttribute": {
+            "naverShoppingSearchInfo": {},
+            "afterServiceInfo": {
+            },
+            
+            "originAreaInfo":{
+                "type":"INCLUDE_IN_DETAILS",
+                "originArea":{
+                    "code":"03"
+                },
+                "content":""
+                },
+            "sellerCodeInfo": {
+                "sellerManagementCode": "",
+                "sellerBarcode": "",
+                "sellerCustomCode1": "",
+                "sellerCustomCode2": ""
+            },
+            "seoInfo": {
+                "sellerTags": [],
+                "pageTitle": "",
+                "metaDescription": ""
+            },
+            "optionInfo": {
+                "optionUsable": false,
+                "options": [],
+                "optionCombinations": [],
+                "optionStandards": [],
+                "optionDeliveryAttributes": [],
+                "useStockManagement": true
+            },
+            "supplementProductInfo": {
+                "sortType": "CREATE",
+                "count": 0,
+                "usable": false,
+                "supplementProducts": []
+            },
+            "purchaseReviewInfo": {
+                "purchaseReviewExposure": true,
+                "reviewUnExposeReason": ""
+            },
+            "customMadeInfo": {
+                "customMade": false
+            },
+            "taxType": "TAX",
+            "productCertificationInfos": [],
+            "minorPurchasable": true,
+            "productInfoProvidedNotice": {
+                
+            },
+            "productAttributes": [],
+            "consumptionTax": "TEN",
+            "certificationTargetExcludeContent": {
+                "kcYn":"KC_EXEMPTION_OBJECT",
+                "kcExemption":"OVERSEAS"
+            },
+            "useReturnCancelNotification": false,
+            "releaseDate": null
+        },
+        "detailContent": {
+            "editorType": "SEONE",
+            "editorTypeForEditor": "SEONE",
+            "existsRemoveTags": false,
+            "productDetailInfoContent": "for_details_here"
+        },
+        "customerBenefit": {
+            "specialDiscountPolicies": [],
+            "immediateDiscountPolicy": {
+                "discountMethod": {
+                    "discountUnitType": "WON",
+                    "value": 4500
+                },
+                "mobileDiscountMethod": {
+                    "discountUnitType": "WON",
+                    "value": 4500
+                }
+            }
+        },
+        "productStats": {},
+        "shopManagementYn": false,
+        "representImageUrl": "",
+        "useSalePeriod": false,
+        "category": {
+            "id": "50000426",
+            "parentId": "50000186",
+            "name": "아동시계",
+            "wholeCategoryId": "50000001>50000186>50000426",
+            "wholeCategoryName": "패션잡화>시계>아동시계",
+            "level": 3,
+            "lastLevel": true,
+            "deleted": false,
+            "sellBlogUse": true,
+            "sortOrder": 0,
+            "juvenileHarmful": false,
+            "$order": 21,
+            "exceptionalCategoryTypes": [
+                "FREE_RETURN_INSURANCE",
+                "REGULAR_SUBSCRIPTION"
+            ],
+            "exceptionalCategoryAttributes": [
+                {
+                    "id": "REGULAR_SUBSCRIPTION",
+                    "content": {
+                        "certificationIds": []
+                    }
+                }
+            ]
+        },
+        "name": "",
+        "product3dImageConfig": {},
+        "salePrice": "",
+        "stockQuantity": ""
+    },
+    "savedTemplate": {
+        "EVENT_PHRASE": false
+    },
+    "singleChannelProductMap": {
+        "STOREFARM": {
+            "id": "",
+            "selfProductNameUsable": false,
+            "channelProductName": "",
+            "channelServiceType": "STOREFARM",
+            "channelProductType": "SINGLE",
+            "channel": null,
+            "epInfo": {
+                "naverShoppingRegistration": true,
+                "enuriRegistration": false,
+                "danawaRegistration": false,
+                "naverDisabled": false,
+                "enuriDisabled": true,
+                "danawaDisabled": true,
+                "disabledAll": false
+            },
+            "channelProductDisplayStatusType": "ON",
+            "channelProductStatusType": "NORMAL",
+            "storeKeepExclusiveProduct": false,
+            "orderRequestUsable": false,
+            "best": false,
+            "bbsConfig": false,
+            "materialImages": [],
+            "tagImages": [],
+            "barcodeImage": null,
+            "affiliateInfo": {
+                "affiliateYn": false
+            },
+            "loungeProductType": null,
+            "channelNo": 102144425,
+            "promotionTextUsable": false
+        }
+    }
+}

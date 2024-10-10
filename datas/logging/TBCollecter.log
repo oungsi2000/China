@@ -1,0 +1,215 @@
+INFO:seleniumwire.handler:Capturing request: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard
+INFO:seleniumwire.handler:Capturing request: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard
+INFO:seleniumwire.handler:Capturing request: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard
+INFO:seleniumwire.handler:Capturing response: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard 200 
+INFO:seleniumwire.handler:Capturing response: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard 200 
+INFO:seleniumwire.handler:Capturing response: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1698073325&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1698073325&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1691042511&target=OPTIMIZATION_TARGET_NEW_TAB_PAGE_HISTORY_CLUSTERS_MODULE_RANKING
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1691042511&target=OPTIMIZATION_TARGET_NEW_TAB_PAGE_HISTORY_CLUSTERS_MODULE_RANKING
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1691042511&target=OPTIMIZATION_TARGET_NEW_TAB_PAGE_HISTORY_CLUSTERS_MODULE_RANKING 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1691042511&target=OPTIMIZATION_TARGET_NEW_TAB_PAGE_HISTORY_CLUSTERS_MODULE_RANKING 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1698073325&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing request: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard
+INFO:seleniumwire.handler:Capturing request: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard
+INFO:seleniumwire.handler:Capturing request: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard
+INFO:seleniumwire.handler:Capturing response: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard 200 
+INFO:seleniumwire.handler:Capturing response: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard 200 
+INFO:seleniumwire.handler:Capturing response: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1698073325&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1698073325&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1698073325&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1691042511&target=OPTIMIZATION_TARGET_NEW_TAB_PAGE_HISTORY_CLUSTERS_MODULE_RANKING
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1691042511&target=OPTIMIZATION_TARGET_NEW_TAB_PAGE_HISTORY_CLUSTERS_MODULE_RANKING
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1691042511&target=OPTIMIZATION_TARGET_NEW_TAB_PAGE_HISTORY_CLUSTERS_MODULE_RANKING
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION 200 
+INFO:seleniumwire.handler:Capturing request: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard
+INFO:seleniumwire.handler:Capturing request: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard
+INFO:seleniumwire.handler:Capturing request: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard
+INFO:seleniumwire.handler:Capturing response: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard 200 
+INFO:seleniumwire.handler:Capturing response: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard 200 
+INFO:seleniumwire.handler:Capturing response: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1698073325&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1691042511&target=OPTIMIZATION_TARGET_NEW_TAB_PAGE_HISTORY_CLUSTERS_MODULE_RANKING
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1698073325&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1691042511&target=OPTIMIZATION_TARGET_NEW_TAB_PAGE_HISTORY_CLUSTERS_MODULE_RANKING 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1691042511&target=OPTIMIZATION_TARGET_NEW_TAB_PAGE_HISTORY_CLUSTERS_MODULE_RANKING
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1691042511&target=OPTIMIZATION_TARGET_NEW_TAB_PAGE_HISTORY_CLUSTERS_MODULE_RANKING 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1698073325&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1691042511&target=OPTIMIZATION_TARGET_NEW_TAB_PAGE_HISTORY_CLUSTERS_MODULE_RANKING
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726572&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1698073325&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1691042511&target=OPTIMIZATION_TARGET_NEW_TAB_PAGE_HISTORY_CLUSTERS_MODULE_RANKING
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1691042511&target=OPTIMIZATION_TARGET_NEW_TAB_PAGE_HISTORY_CLUSTERS_MODULE_RANKING 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1698073325&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1691042511&target=OPTIMIZATION_TARGET_NEW_TAB_PAGE_HISTORY_CLUSTERS_MODULE_RANKING 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1701726567&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1698073325&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1691042511&target=OPTIMIZATION_TARGET_NEW_TAB_PAGE_HISTORY_CLUSTERS_MODULE_RANKING
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1691042511&target=OPTIMIZATION_TARGET_NEW_TAB_PAGE_HISTORY_CLUSTERS_MODULE_RANKING 200 
+INFO:seleniumwire.handler:Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1691042511&target=OPTIMIZATION_TARGET_NEW_TAB_PAGE_HISTORY_CLUSTERS_MODULE_RANKING
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1691042511&target=OPTIMIZATION_TARGET_NEW_TAB_PAGE_HISTORY_CLUSTERS_MODULE_RANKING 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1698073325&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1698073325&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1698073325&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1698073325&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1698073325&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING 200 
+INFO:seleniumwire.handler:Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1698073325&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING 200 
+INFO:seleniumwire.handler:Capturing request: https://update.googleapis.com/service/update2/json?cup2key=13:KUOoAJmWygfuGXzsBBv9RBjoN_mgFoj3fQLNorHDTpU&cup2hreq=9193f0cbd3fef66cd5773957a94a330a375dcfaabf64247a3c7991fc40712c38
+INFO:seleniumwire.handler:Capturing request: https://update.googleapis.com/service/update2/json?cup2key=13:VDG_ETmQ3P5ub2fcgFdwF3sKwR4XzlL1_RbA7r0YCVQ&cup2hreq=bd377622bbe42e4971500e32d4c066154f684ac514f7d2f246049c79a655312a
+INFO:seleniumwire.handler:Capturing request: https://update.googleapis.com/service/update2/json?cup2key=13:Ilacf6Mxe5b6mQq6TYW8u2tHBILmoZkEqzN0LLT4Iw0&cup2hreq=ebe04ab0866aac4367f8741b7031b1646480e58c7db65d40a6c94b6dc6528b4e
+INFO:seleniumwire.handler:Capturing response: https://update.googleapis.com/service/update2/json?cup2key=13:KUOoAJmWygfuGXzsBBv9RBjoN_mgFoj3fQLNorHDTpU&cup2hreq=9193f0cbd3fef66cd5773957a94a330a375dcfaabf64247a3c7991fc40712c38 200 
+INFO:seleniumwire.handler:Capturing response: https://update.googleapis.com/service/update2/json?cup2key=13:VDG_ETmQ3P5ub2fcgFdwF3sKwR4XzlL1_RbA7r0YCVQ&cup2hreq=bd377622bbe42e4971500e32d4c066154f684ac514f7d2f246049c79a655312a 200 
+INFO:seleniumwire.handler:Capturing response: https://update.googleapis.com/service/update2/json?cup2key=13:Ilacf6Mxe5b6mQq6TYW8u2tHBILmoZkEqzN0LLT4Iw0&cup2hreq=ebe04ab0866aac4367f8741b7031b1646480e58c7db65d40a6c94b6dc6528b4e 200 
+INFO:seleniumwire.handler:Capturing request: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/AIZk8O7Cv2UUbxc_aaUykKI_7/ALzUVHP-vRgKCzqwbtGugSE
+INFO:seleniumwire.handler:Capturing request: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bnh4l6g22ymculzijdg3x476r4_426/lmelglejhemejginpboagddgdfbepgmp_426_all_ZZ_gxqhwgh75ytzp3v5jxt3kz7pgq.crx3
+INFO:seleniumwire.handler:Capturing request: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/ad3rm3ciqs3fjr4bc4x5vwuildeq_9.49.1/gcmjkmgdlgnkkcocmoeiminaijmmjnii_9.49.1_all_ixzyrcu7pvmgu5pjv6enfqq6wa.crx3
+INFO:seleniumwire.handler:Capturing response: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/AIZk8O7Cv2UUbxc_aaUykKI_7/ALzUVHP-vRgKCzqwbtGugSE 200 OK
+INFO:seleniumwire.handler:Capturing response: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/ad3rm3ciqs3fjr4bc4x5vwuildeq_9.49.1/gcmjkmgdlgnkkcocmoeiminaijmmjnii_9.49.1_all_ixzyrcu7pvmgu5pjv6enfqq6wa.crx3 200 OK
+INFO:seleniumwire.handler:Capturing response: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bnh4l6g22ymculzijdg3x476r4_426/lmelglejhemejginpboagddgdfbepgmp_426_all_ZZ_gxqhwgh75ytzp3v5jxt3kz7pgq.crx3 200 OK
+INFO:seleniumwire.handler:Capturing request: https://update.googleapis.com/service/update2/json
+INFO:seleniumwire.handler:Capturing request: https://update.googleapis.com/service/update2/json
+INFO:seleniumwire.handler:Capturing request: https://update.googleapis.com/service/update2/json
+INFO:seleniumwire.handler:Capturing response: https://update.googleapis.com/service/update2/json 200 
+INFO:seleniumwire.handler:Capturing response: https://update.googleapis.com/service/update2/json 200 
+INFO:seleniumwire.handler:Capturing response: https://update.googleapis.com/service/update2/json 200 
+INFO:seleniumwire.handler:Capturing request: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bnh4l6g22ymculzijdg3x476r4_426/lmelglejhemejginpboagddgdfbepgmp_426_all_ZZ_gxqhwgh75ytzp3v5jxt3kz7pgq.crx3
+INFO:seleniumwire.handler:Capturing response: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bnh4l6g22ymculzijdg3x476r4_426/lmelglejhemejginpboagddgdfbepgmp_426_all_ZZ_gxqhwgh75ytzp3v5jxt3kz7pgq.crx3 200 OK
+INFO:seleniumwire.handler:Capturing request: https://update.googleapis.com/service/update2/json
+INFO:seleniumwire.handler:Capturing request: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/ad3rm3ciqs3fjr4bc4x5vwuildeq_9.49.1/gcmjkmgdlgnkkcocmoeiminaijmmjnii_9.49.1_all_ixzyrcu7pvmgu5pjv6enfqq6wa.crx3
+INFO:seleniumwire.handler:Capturing request: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/acie5sutccpddtag7ppyeyajw2jq_2023.12.26.1/kiabhabjdbkjdpjbpigfodbdjmbglcoo_2023.12.26.01_all_adhtei42mhzotejfnhb2zibamvya.crx3
+INFO:seleniumwire.handler:Capturing response: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/acie5sutccpddtag7ppyeyajw2jq_2023.12.26.1/kiabhabjdbkjdpjbpigfodbdjmbglcoo_2023.12.26.01_all_adhtei42mhzotejfnhb2zibamvya.crx3 200 OK
+INFO:seleniumwire.handler:Capturing response: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/ad3rm3ciqs3fjr4bc4x5vwuildeq_9.49.1/gcmjkmgdlgnkkcocmoeiminaijmmjnii_9.49.1_all_ixzyrcu7pvmgu5pjv6enfqq6wa.crx3 200 OK
+INFO:seleniumwire.handler:Capturing response: https://update.googleapis.com/service/update2/json 200 
+INFO:seleniumwire.handler:Capturing request: https://update.googleapis.com/service/update2/json
+INFO:seleniumwire.handler:Capturing request: https://update.googleapis.com/service/update2/json
+INFO:seleniumwire.handler:Capturing response: https://update.googleapis.com/service/update2/json 200 
+INFO:seleniumwire.handler:Capturing request: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/acie5sutccpddtag7ppyeyajw2jq_2023.12.26.1/kiabhabjdbkjdpjbpigfodbdjmbglcoo_2023.12.26.01_all_adhtei42mhzotejfnhb2zibamvya.crx3
+INFO:seleniumwire.handler:Capturing response: https://update.googleapis.com/service/update2/json 200 
+INFO:seleniumwire.handler:Capturing response: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/acie5sutccpddtag7ppyeyajw2jq_2023.12.26.1/kiabhabjdbkjdpjbpigfodbdjmbglcoo_2023.12.26.01_all_adhtei42mhzotejfnhb2zibamvya.crx3 200 OK
+INFO:seleniumwire.handler:Capturing request: https://update.googleapis.com/service/update2/json
+INFO:seleniumwire.handler:Capturing response: https://update.googleapis.com/service/update2/json 200 
+INFO:seleniumwire.handler:Capturing request: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/acie5sutccpddtag7ppyeyajw2jq_2023.12.26.1/kiabhabjdbkjdpjbpigfodbdjmbglcoo_2023.12.26.01_all_adhtei42mhzotejfnhb2zibamvya.crx3
+INFO:seleniumwire.handler:Capturing request: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/AIZk8O7Cv2UUbxc_aaUykKI_7/ALzUVHP-vRgKCzqwbtGugSE
+INFO:seleniumwire.handler:Capturing response: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/acie5sutccpddtag7ppyeyajw2jq_2023.12.26.1/kiabhabjdbkjdpjbpigfodbdjmbglcoo_2023.12.26.01_all_adhtei42mhzotejfnhb2zibamvya.crx3 200 OK
+INFO:seleniumwire.handler:Capturing response: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/AIZk8O7Cv2UUbxc_aaUykKI_7/ALzUVHP-vRgKCzqwbtGugSE 200 OK
+INFO:seleniumwire.handler:Capturing request: https://update.googleapis.com/service/update2/json
+INFO:seleniumwire.handler:Capturing request: https://update.googleapis.com/service/update2/json
+INFO:seleniumwire.handler:Capturing request: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/hpmhqvptbs4nwgpu57sr2nu7su_8450/hfnkpimlhhgieaddgfemjhofmfblmnib_8450_all_adry7hkzgckizjm7tdnyz4ufwreq.crx3
+INFO:seleniumwire.handler:Capturing response: http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/hpmhqvptbs4nwgpu57sr2nu7su_8450/hfnkpimlhhgieaddgfemjhofmfblmnib_8450_all_adry7hkzgckizjm7tdnyz4ufwreq.crx3 200 OK
+INFO:seleniumwire.handler:Capturing request: https://update.googleapis.com/service/update2/json
